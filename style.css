@@ -13,3 +13,15 @@ h1 {color: rgb(123, 6, 6);}
     border-radius: 10px;"
 }
 
+h2{
+    font-size: 50px;
+}
+
+h3{
+    font-size: 40px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+.test1 {
+    box-shadow: 12px 12px 2px 1px rgb(126, 81, 2);
+}
